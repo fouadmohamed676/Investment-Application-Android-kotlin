@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item
+        android:id="@+id/invest"
+        android:icon="@drawable/ic_chart_24"
+        android:title="السابقه"
+        android:tooltipText="home"
+        tools:ignore="HardcodedText,UnusedAttribute" />
+    <item
+        android:id="@+id/precedent"
+        android:icon="@drawable/ic_addchart"
+        android:title="الاستثمار"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_person"
+        android:title="الحساب"
+        tools:ignore="HardcodedText" />
+</menu>
